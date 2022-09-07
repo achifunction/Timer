@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap');
+body{
+    height: 800px;
+    width: 100%;
+    left: 1020px;
+    top: -400px;
+    border-radius: 0px;
+    background-color: rgba(29, 30, 40, 1);
+    background-image: url("https://cdn.glitch.global/87975f0e-a225-4b47-83c6-73473c9eb5c7/bg-stars.svg?v=1662064280442");
+
+}
+.mainConteiner{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    font-family: 'Red Hat Text', sans-serif;;
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 7.5px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 132px;
+}
+
+.days{
+height: 140px;
+width: 148px;
+border-radius: 8px;
+background: rgba(52, 54, 80, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 16px;
+}
+
+
+h2{
+border-radius: nullpx;
+font-family: 'Red Hat Text', sans-serif;;
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 71px;
+text-align: center;
+letter-spacing: -2.4px;
+color: #FB5E84;
+
+}
+.hours{
+    height: 140px;
+    width: 148px;
+    border-radius: 8px;
+    background: rgba(52, 54, 80, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+
+}
+.minutes{
+    height: 140px;
+    width: 148px;
+    border-radius: 8px;
+    background: rgba(52, 54, 80, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+}
+.seconds{
+    height: 140px;
+    width: 148px;
+    border-radius: 8px;
+    background: rgba(52, 54, 80, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+}
+p{
+font-family: 'Red Hat Text', sans-serif;;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 5.91875px;
+color: #8385A9;
+margin-left: 16px;
+margin-top: 16px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+.time{
+    display: flex;
+    justify-content:center ;
+    margin-top: 105px;
+}
+span{
+    font-family: 'Red Hat Text', sans-serif;;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 5.91875px;
+    color: #8385A9;
+}
+.D{}
+
+
+
+
+/* .p3{
+    margin-left: 40px;
+}
+.p2{
+    margin-left: 40px;
+}
+.p1{
+    margin-left: 40px;
+}
+.p4{
+    margin-left: 40px;
+} */
